@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\AulaC#-0204\Aula0204\Aula0204\obj\Debug\Aula0204.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\AulaC#-0204\Aula0204\Aula0204\obj\Debug\Aula0204.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\AulaC#-0204\Aula0204\Aula0204\bin\Debug\Aula0204.exe.config
+C:\Users\Aluno\Desktop\AulaC#-0204\Aula0204\Aula0204\bin\Debug\Aula0204.exe
+C:\Users\Aluno\Desktop\AulaC#-0204\Aula0204\Aula0204\bin\Debug\Aula0204.pdb
+C:\Users\Aluno\Desktop\AulaC#-0204\Aula0204\Aula0204\obj\Debug\Aula0204.exe
+C:\Users\Aluno\Desktop\AulaC#-0204\Aula0204\Aula0204\obj\Debug\Aula0204.pdb
